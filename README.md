@@ -8,7 +8,7 @@ A minimal [Tampermonkey](https://tampermonkey.net/) userscript that adds a dark/
 - Reloads the page to apply changes.
 
 ## 🧩 Installation
-### [👉 Click here to install DarkWplace](https://github.com/Lendie-dev/DarkWPlace/releases/latest/download/dark-wplace.user.js)
+### [👉 Click here to install DarkWplace](https://github.com/Lendie-dev/DarkWPlace/raw/main/dark-wplace.user.js)
 Requires [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 
 ### Visit [wplace.live](https://wplace.live) — the 🌙/☀️ button appears.
